@@ -9,4 +9,9 @@ public class Git_Test {
         System.out.println("git....");
         System.out.println("git....");
     }
+
+
+    public void test() {
+        System.out.println("陈阳傻逼");
+    }
 }
