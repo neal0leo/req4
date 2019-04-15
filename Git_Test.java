@@ -21,4 +21,10 @@ public class Git_Test {
 	public void a(){
 		System.out.println("git");
 	}
+	
+	
+	public void a(){
+		System.out.println("hub");
+	}
+	
 }
