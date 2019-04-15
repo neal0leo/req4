@@ -15,4 +15,10 @@ public class Git_Test {
     public void test() {
         System.out.println("陈阳傻逼");
     }
+	
+	
+	
+	public void a(){
+		System.out.println("git");
+	}
 }
